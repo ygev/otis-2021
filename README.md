@@ -29,7 +29,7 @@ New concepts brought up in the workshop:
 
 <img src="img/2-final.gif" width="300"/>
 
-### Workshop 2: Sound & Type in p5.js [WIP]
+### Workshop 2: Sound & Type in p5.js
 [Final Demo](https://editor.p5js.org/ygev/collections/QKEHqk4jL) · [Figma Deck](https://www.figma.com/proto/nChFKP4aChQrrFze823GKB/Otis-Experimental-Typography-Workshops?node-id=124%3A3&viewport=-1274%2C-1317%2C0.6101463437080383&scaling=scale-down)
 
 
@@ -42,5 +42,18 @@ New concepts brought up in the workshop:
 |`p5.AudioIn()`   | A function in **p5.sound** that calls on an audio input  | [p5.AudioIn()](https://p5js.org/reference/#/p5.AudioIn)  |
 |`getLevel()`   | A function in **p5.sound** that fetches the volume of the audio input.  | [getLevel()](https://p5js.org/reference/#/p5.Amplitude/getLevel)  |
 
+<hr>
 
+<img src="img/3-final.gif" width="300"/>
+
+### Workshop 3: Animation in p5.js
+[Final Demo](https://editor.p5js.org/ygev/sketches/C5dRmt16o) · [Figma Deck](https://www.figma.com/proto/nChFKP4aChQrrFze823GKB/Otis-Experimental-Typography-Workshops?node-id=215%3A84&viewport=957%2C282%2C0.13776342570781708&scaling=min-zoom)
+
+
+New concepts brought up in the workshop:
+
+|Syntax  |Quick Definition  | More Info |
+|:---|:---|:---|
+| `sin()`  | A function that calculates the sine of an angle, used for easing and looping in animation.  |    [sin()](https://p5js.org/reference/#/p5/sin)  |
+|`frameCount`   | A variable that contains the number of elapsed frames since the program started.  | [frameCount](https://p5js.org/reference/#/p5/frameCount)  |
 
