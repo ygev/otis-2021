@@ -1,4 +1,4 @@
-<img src="img/1-final.gif" width="300"/>
+<img src="../img/1-final.gif" width="300"/>
 
 ### Workshop 1: Exploiting Type in p5.js
 [Final Demo](https://editor.p5js.org/ygev/collections/w_TW8Q-NU) · [Figma Deck](https://www.figma.com/proto/nChFKP4aChQrrFze823GKB/Otis-Experimental-Typography-Workshops?node-id=12%3A2478&viewport=488%2C249%2C0.15884123742580414&scaling=min-zoom)
