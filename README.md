@@ -14,4 +14,5 @@ The following are supporting materials to my introductory workshops for generati
 | 3  | Animation + Type  | [Go to Page →](/w3-animatingType/)     | 
 
 ### Colophon
-[Pilowlava](http://velvetyne.fr/fonts/pilowlava/) by Anton Moglia, Jérémy Landes and Vincent Wagner · [Mondwest & Neuebit](https://pangrampangram.com/products/bitmap-fonts?variant=32840636858422) by Steve Marchal at PangramPangram
+- [Pilowlava](http://velvetyne.fr/fonts/pilowlava/) by Anton Moglia, Jérémy Landes and Vincent Wagner 
+- [Mondwest & Neuebit](https://pangrampangram.com/products/bitmap-fonts?variant=32840636858422) by Steve Marchal at PangramPangram
