@@ -11,25 +11,19 @@ The following are supporting materials to my introductory workshops for generati
 [Final Demo](https://editor.p5js.org/ygev/collections/w_TW8Q-NU) · [Figma Deck](https://www.figma.com/proto/nChFKP4aChQrrFze823GKB/Otis-Experimental-Typography-Workshops?node-id=12%3A2478&viewport=488%2C249%2C0.15884123742580414&scaling=min-zoom)
 
 New concepts brought up in the workshop:
-- **`preload()`** function
-  - This is used alongside `function draw()` and `function setup()` when you need to import an image or a font. 
-   [More Info](https://p5js.org/reference/#/p5/preload)
-- **`loadFont()`**
-  - This is the function you call inside `function preload()` to import your font from URL or file path. [More Info](https://p5js.org/reference/#/p5/loadFont)
-- **`textToPoints()`**
-  - This is the function you call inside `function draw()` to turn your text into a series of points we can manipulate. [More Info](https://p5js.org/reference/#/p5.Font/textToPoints)
-- **`for loops`**
-  - A control flow statement that lets you repeat anything that goes inside of it. [More Info](https://p5js.org/reference/#/p5/for)
-- **`push()` and `pop()`**
-  - A pair of functions that lets you store unique styles inside it, so they don't affect the rest of the canvas. [More Info](https://p5js.org/reference/#/p5/push)
-- **`sampleFactor:`**
-  - An object for the `textToPoints()` function that lets you control how many points to generate from the typeform. [More Info](https://p5js.org/reference/#/p5.Font/textToPoints)
-- **`colorMode()`**
-  - A way to define your colormode in p5, for instance to HSL. [More Info](https://p5js.org/reference/#/p5/colorMode)
-- **`random()`**
-  - Randomizes anything that dares to be inside it. Useful for erratic animations. [More Info](https://p5js.org/reference/#/p5/random)
-- **`frameCount()`**
-  - Iterates through the frame count of the canvas infinitely. This is the key for making looped animations. [More Info](https://p5js.org/reference/#/p5/frameCount)
+
+|Syntax  |Quick Definition  | More Info |
+|:---|:---|:---|
+| `preLoad()`  | Used alongside `function draw()` and `function setup()` when you need to import an image or a font.  |    [preLoad()](https://p5js.org/reference/#/p5/preload)  |
+|`loadFont()`   | Used inside `function preload()` to import your font from URL or file path.  | [loadFont()](https://p5js.org/reference/#/p5/loadFont)  |
+|`textToPoints()`   | Used inside `function draw()` to turn your text into a series of points we can manipulate. | [textToPoints()](https://p5js.org/reference/#/p5.Font/textToPoints)  |
+|`loadFont()`   | Used inside `function preload()` to import your font from URL or file path.  | [loadFont()](https://p5js.org/reference/#/p5/loadFont)  |
+| `for` loops   | A control flow statement that lets you repeat anything that goes inside of it.  | [for](https://p5js.org/reference/#/p5/for)  |
+|`push()`, `pop()`   | A pair of functions that lets you store unique styles inside it, so they don't affect the rest of the canvas.  | [push()](https://p5js.org/reference/#/p5/push)  |
+|`sampleFactor:`   | An object for the `textToPoints()` function that lets you control how many points to generate from the typeform. | [textToPoints()](https://p5js.org/reference/#/p5.Font/textToPoints)  |
+|`colorMode()`   | A way to define your colormode in p5, for instance to HSL. | [colorMode()](https://p5js.org/reference/#/p5/colorMode)  |
+|`random()`   | Randomizes anything that dares to be inside it. Useful for erratic animations. | [random()](https://p5js.org/reference/#/p5/random)  |
+|`frameCount()`   | Iterates through the frame count of the canvas infinitely. This is the key for making looped animations. | [frameCount()](https://p5js.org/reference/#/p5/frameCount)  |
 
 <hr>
 
@@ -38,8 +32,15 @@ New concepts brought up in the workshop:
 ### Workshop 2: Sound & Type in p5.js [WIP]
 [Final Demo](https://editor.p5js.org/ygev/collections/QKEHqk4jL) · [Figma Deck](https://www.figma.com/proto/nChFKP4aChQrrFze823GKB/Otis-Experimental-Typography-Workshops?node-id=124%3A3&viewport=-1274%2C-1317%2C0.6101463437080383&scaling=scale-down)
 
+
 New concepts brought up in the workshop:
-- **`beginShape()`, `endShape()` and `vertex()`**
-- **p5.sound Library**
-- **`micLevel()`**
-- **Limiting `random()`** 
+
+|Syntax  |Quick Definition  | More Info |
+|:---|:---|:---|
+| `beginShape()`  | Used alongside `endShape()` and `vertex()` to make any vector shape.  |    [beginShape()](https://p5js.org/reference/#/p5/beginShape)  |
+| p5 Sound library   | An library for p5 that allows you to play around with audio input. | [p5.sound](https://p5js.org/reference/#/libraries/p5.sound)  |
+|`p5.AudioIn()`   | A function in **p5.sound** that calls on an audio input  | [p5.AudioIn()](https://p5js.org/reference/#/p5.AudioIn)  |
+|`getLevel()`   | A function in **p5.sound** that fetches the volume of the audio input.  | [getLevel()](https://p5js.org/reference/#/p5.Amplitude/getLevel)  |
+
+
+
