@@ -16,3 +16,5 @@ The following are supporting materials to my introductory workshops for generati
 ### Colophon
 - [Pilowlava](http://velvetyne.fr/fonts/pilowlava/) by Anton Moglia, Jérémy Landes and Vincent Wagner 
 - [Mondwest & Neuebit](https://pangrampangram.com/products/bitmap-fonts?variant=32840636858422) by Steve Marchal at PangramPangram
+
+Special thanks to @cdaein for teaching me everything I know about p5.
