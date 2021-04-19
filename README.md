@@ -1,4 +1,4 @@
-<img src="img/1-final.gif" height="300"/><img src="img/2-final.gif" height="300"/><img src="img/3-final.gif" height="300"/>
+<img src="img/1-final.gif" height="200"/><img src="img/2-final.gif" height="200"/><img src="img/3-final.gif" height="200"/>
 
 # Experimental Typography on the Web
 ### Otis College of Art and Design · COMD312
